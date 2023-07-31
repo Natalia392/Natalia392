@@ -1,5 +1,5 @@
   <div align="center">
-    <img width="600px" height="300px" src="https://github.com/Natalia392/Natalia392/assets/129564490/4a8f7ba9-7c0e-48b0-9bcd-27b6120fb56c" alt="Blue Black Futuristic Technology Facebook Cover">
+    <img src="https://media.licdn.com/dms/image/D4D16AQEfYbEef5h_Ig/profile-displaybackgroundimage-shrink_350_1400/0/1687905790027?e=1696464000&v=beta&t=9dTz85Vqo_gSvVgvhV9HJFX5z-dUT9MzxjJKDvNUBsE" alt="banner-code">
   </div> 
   <div>
     <h4>👋 Hi, I'm Natalia! I'm a Front-End Developer and I am starting a new journey in the tech world.</h4>
