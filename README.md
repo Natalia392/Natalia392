@@ -1,6 +1,6 @@
   <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4D16AQEfYbEef5h_Ig/profile-displaybackgroundimage-shrink_350_1400/0/1687905790027?e=1696464000&v=beta&t=9dTz85Vqo_gSvVgvhV9HJFX5z-dUT9MzxjJKDvNUBsE" alt="banner-code">
-    
+    <img src="https://github.com/Natalia392/Natalia392/blob/main/banner-linkedin.png?raw=true" alt="banner-code">
+  </div>
     <br>
 💫 About Me:
     <br>
