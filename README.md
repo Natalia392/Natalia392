@@ -6,7 +6,7 @@
     <br>
 👋 Hi, I'm Natalia! I'm a Front-End Developer<br> I am starting a new journey in the tech world.<br>I love to work with teams and I have experience in SCRUM.<br>Feel free to contact me for job opportunities, collaborations, or simply to chat about technology!<br>- 📍 Location: Chile<br>- 📧 Email: ntorrejonvalencia@gmail.com
 
-## [Check out my porfolio!](https://portfolio-natalias-projects-3bb9569a.vercel.app/)
+# [Check out my porfolio!](https://portfolio-natalias-projects-3bb9569a.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-torrej%C3%B3n/) 
