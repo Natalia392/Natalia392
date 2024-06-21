@@ -4,7 +4,7 @@
     <br>
 💫 About Me:
     <br>
-👋 Hi, I'm Natalia! I'm a Front-End Developer<br> I am starting a new journey in the tech world.<br>I love to work with teams and I have experience in SCRUM.<br>Feel free to contact me for job opportunities, collaborations, or simply to chat about technology!<br>- 📍 Location: Chile<br>- 📧 Email: ntorrejonvalencia@gmail.com
+👋 Hi, I'm Natalia! Thank you for visiting my profile :) <br> I recently finished a Front-End development bootcamp in Laboratoria. <br> I'm currently working  as a Full-Stack Developer Trainee in <a href="https://www.thesheriff.cl/" title="Sheriff">Sheriff</a>, a StartUp that develops a risk assessment platform. <br>- 📍 Location: Chile<br>- 📧 Email: ntorrejonvalencia@gmail.com
 
 # [Check out my porfolio!](https://portfolio-natalias-projects-3bb9569a.vercel.app/)
 
